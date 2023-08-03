@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaStreamClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaStreamClient_jar</output-path>
+    <root id="archive" name="JavaStreamClient.jar">
+      <element id="module-output" name="JavaStreamClient" />
+    </root>
+  </artifact>
+</component>
